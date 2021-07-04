@@ -43,4 +43,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My research interests include InternationalFinance and credit risk
+My research interests include International Finance and credit risk
