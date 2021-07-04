@@ -26,16 +26,16 @@ social:
   link: https://www.linkedin.com/in/lucie-yiliu-lu-30817b40/
 - icon: cv-square
   icon_pack: ai
-  link: files/John_Doe_CV.pdf
+  link: files/YiliuLu_vita_20210629.pdf
 - icon: envelope-square
   icon_pack: fas
   link: 'mailto:yiliuu.luu@mcgill.ca'
 - icon: github
   icon_pack: fab
-  link: https://github.com/johndoe
+  link: https://github.com/luucieluyyiliu
 - icon: google-scholar-square
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=0Gk9Qx0AAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?hl=en&user=0Gk9Qx0AAAAJ
 - icon: ssrn-square
   icon_pack: aihttps://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4038745https://ssrn.com/author=1234567
 superuser: true
