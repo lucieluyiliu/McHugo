@@ -31,7 +31,7 @@ social:
   link: files/YiliuLu_vita_20210629.pdf
 - icon: envelope-square
   icon_pack: fas
-  link: 'mailto:john.doe@mcgill.ca'
+  link: 'mailto:yiliu.lu@mcgill.ca'
 - icon: github
   icon_pack: fab
   link: https://github.com/lucieluyiliu
