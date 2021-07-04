@@ -32,7 +32,7 @@ social:
   link: 'mailto:yiliuu.luu@mcgill.ca'
 - icon: github
   icon_pack: fab
-  link: https://github.com/luucieluyyiliu
+  link: https://github.com/luucieluyiliu
 - icon: google-scholar-square
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=0Gk9Qx0AAAAJ
