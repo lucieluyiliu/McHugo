@@ -4,12 +4,12 @@ authors:
 
 #bio:
 
-email: ""
+email: "yiliuu.lu@mail.mcgill.ca"
 
 #interests:
 
 #- International Finance
-Credit risk
+#-Credit risk
 
 
 name: Yiliu(Lucie) Lu
